@@ -1,0 +1,1916 @@
+{
+    "get": "players",
+    "parameters": {
+        "league": "140",
+        "season": "2020",
+        "team": "529"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 2
+    },
+    "response": [
+        {
+            "player": {
+                "id": 146,
+                "name": "Álex Collado",
+                "firstname": "Álex",
+                "lastname": "Collado Gutiérrez",
+                "age": 22,
+                "birth": {
+                    "date": "1999-04-22",
+                    "place": "Sabadell",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "177 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/146.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 143,
+                "name": "Carles Aleñá",
+                "firstname": "Carles",
+                "lastname": "Aleña Castillo",
+                "age": 23,
+                "birth": {
+                    "date": "1998-01-05",
+                    "place": "Mataró",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "180 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/143.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 0,
+                        "minutes": 46,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 0,
+                        "bench": 16
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 38,
+                        "key": null,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 161929,
+                "name": "K. De La Fuente",
+                "firstname": "Konrad",
+                "lastname": "De La Fuente",
+                "age": 20,
+                "birth": {
+                    "date": "2001-07-16",
+                    "place": "Miami",
+                    "country": "USA"
+                },
+                "nationality": "USA",
+                "height": "170 cm",
+                "weight": "63 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/161929.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 18
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 129880,
+                "name": "S. Ramos",
+                "firstname": "Santiago",
+                "lastname": "Ramos Mingo",
+                "age": 20,
+                "birth": {
+                    "date": "2001-11-21",
+                    "place": "Teniente Berdina",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "186 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/129880.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 9925,
+                "name": "Matheus Fernandes",
+                "firstname": "Matheus",
+                "lastname": "Fernandes Siqueira",
+                "age": 23,
+                "birth": {
+                    "date": "1998-06-30",
+                    "place": "Itaboraí",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "183 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/9925.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 23
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 142,
+                "name": "Rafinha",
+                "firstname": "Rafael",
+                "lastname": "Alcântara do Nascimento",
+                "age": 28,
+                "birth": {
+                    "date": "1993-02-12",
+                    "place": "São Paulo",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "174 cm",
+                "weight": "71 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/142.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 154,
+                "name": "L. Messi",
+                "firstname": "Lionel Andrés",
+                "lastname": "Messi Cuccittini",
+                "age": 34,
+                "birth": {
+                    "date": "1987-06-24",
+                    "place": "Rosario",
+                    "country": "Argentina"
+                },
+                "nationality": "Argentina",
+                "height": "170 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/154.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 33,
+                        "minutes": 3022,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "8.342857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 141,
+                        "on": 91
+                    },
+                    "goals": {
+                        "total": 30,
+                        "conceded": 0,
+                        "assists": 9,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2246,
+                        "key": 81,
+                        "accuracy": 54
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": null,
+                        "interceptions": 6
+                    },
+                    "duels": {
+                        "total": 501,
+                        "won": 286
+                    },
+                    "dribbles": {
+                        "attempts": 247,
+                        "success": 160,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 99,
+                        "committed": 22
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 3,
+                        "missed": 2,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162123,
+                "name": "Ilaix Moriba",
+                "firstname": "Moriba",
+                "lastname": "Kourouma Kourouma",
+                "age": 18,
+                "birth": {
+                    "date": "2003-01-19",
+                    "place": "Conakry",
+                    "country": "Guinea"
+                },
+                "nationality": "Guinea",
+                "height": "185 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/162123.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 14,
+                        "lineups": 4,
+                        "minutes": 537,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.964285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 4,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 370,
+                        "key": 7,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 104,
+                        "won": 63
+                    },
+                    "dribbles": {
+                        "attempts": 19,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 19,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 56,
+                "name": "A. Griezmann",
+                "firstname": "Antoine",
+                "lastname": "Griezmann",
+                "age": 30,
+                "birth": {
+                    "date": "1991-03-21",
+                    "place": "Mâcon",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "176 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/56.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 36,
+                        "lineups": 32,
+                        "minutes": 2619,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.213888",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 20,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 62,
+                        "on": 34
+                    },
+                    "goals": {
+                        "total": 13,
+                        "conceded": 0,
+                        "assists": 7,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1315,
+                        "key": 42,
+                        "accuracy": 31
+                    },
+                    "tackles": {
+                        "total": 37,
+                        "blocks": 1,
+                        "interceptions": 12
+                    },
+                    "duels": {
+                        "total": 204,
+                        "won": 115
+                    },
+                    "dribbles": {
+                        "attempts": 37,
+                        "success": 26,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 34,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 1,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 872,
+                "name": "M. Pjanić",
+                "firstname": "Miralem",
+                "lastname": "Pjanić",
+                "age": 31,
+                "birth": {
+                    "date": "1990-04-02",
+                    "place": "Tuzla",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Bosnia and Herzegovina",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/872.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 19,
+                        "lineups": 6,
+                        "minutes": 620,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.815789",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 13,
+                        "out": 5,
+                        "bench": 30
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 748,
+                        "key": 12,
+                        "accuracy": 36
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 1,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 40
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 7,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 151,
+                "name": "A. Vidal",
+                "firstname": "Arturo Erasmo",
+                "lastname": "Vidal Pardo",
+                "age": 34,
+                "birth": {
+                    "date": "1987-05-22",
+                    "place": "Santiago de Chile",
+                    "country": "Chile"
+                },
+                "nationality": "Chile",
+                "height": "180 cm",
+                "weight": "75 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/151.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 127,
+                "name": "M. ter Stegen",
+                "firstname": "Marc-André",
+                "lastname": "ter Stegen",
+                "age": 29,
+                "birth": {
+                    "date": "1992-04-30",
+                    "place": "Mönchengladbach",
+                    "country": "Germany"
+                },
+                "nationality": "Germany",
+                "height": "187 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/127.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 31,
+                        "minutes": 2790,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.851612",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 32,
+                        "assists": null,
+                        "saves": 78
+                    },
+                    "passes": {
+                        "total": 886,
+                        "key": 1,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 912,
+                "name": "Neto",
+                "firstname": "Norberto",
+                "lastname": "Murara Neto",
+                "age": 32,
+                "birth": {
+                    "date": "1989-07-19",
+                    "place": "Araxá",
+                    "country": "Brazil"
+                },
+                "nationality": "Brazil",
+                "height": "190 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/912.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 7,
+                        "minutes": 630,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": "6.942857",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 28
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 6,
+                        "assists": null,
+                        "saves": 18
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": null,
+                        "accuracy": 25
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 126,
+                "name": "Iñaki Peña",
+                "firstname": "Ignacio",
+                "lastname": "Peña Sotorres",
+                "age": 22,
+                "birth": {
+                    "date": "1999-03-02",
+                    "place": "Alicante",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "184 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/126.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 162473,
+                "name": "Arnau Tenas",
+                "firstname": "Arnau",
+                "lastname": "Tenas Ureña",
+                "age": 20,
+                "birth": {
+                    "date": "2001-05-30",
+                    "place": "Vic",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "185 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/162473.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 24
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 1
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 38735,
+                "name": "S. Dest",
+                "firstname": "Sergiño Gianni",
+                "lastname": "Dest",
+                "age": 21,
+                "birth": {
+                    "date": "2000-11-03",
+                    "place": "Almere",
+                    "country": "Netherlands"
+                },
+                "nationality": "USA",
+                "height": "175 cm",
+                "weight": "62 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/38735.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 30,
+                        "lineups": 23,
+                        "minutes": 1918,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.730000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 14,
+                        "bench": 12
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1115,
+                        "key": 23,
+                        "accuracy": 33
+                    },
+                    "tackles": {
+                        "total": 30,
+                        "blocks": 4,
+                        "interceptions": 11
+                    },
+                    "duels": {
+                        "total": 170,
+                        "won": 77
+                    },
+                    "dribbles": {
+                        "attempts": 60,
+                        "success": 29,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 11,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 136,
+                "name": "Piqué",
+                "firstname": "Gerard",
+                "lastname": "Piqué Bernabéu",
+                "age": 34,
+                "birth": {
+                    "date": "1987-02-02",
+                    "place": "Barcelona",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "194 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/136.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 18,
+                        "lineups": 18,
+                        "minutes": 1485,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.983333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1239,
+                        "key": 2,
+                        "accuracy": 64
+                    },
+                    "tackles": {
+                        "total": 16,
+                        "blocks": 4,
+                        "interceptions": 26
+                    },
+                    "duels": {
+                        "total": 124,
+                        "won": 84
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 13
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 101814,
+                "name": "R. Araújo",
+                "firstname": "Ronald Federico",
+                "lastname": "Araújo da Silva",
+                "age": 22,
+                "birth": {
+                    "date": "1999-03-07",
+                    "place": "Rivera",
+                    "country": "Uruguay"
+                },
+                "nationality": "Uruguay",
+                "height": "188 cm",
+                "weight": "79 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/101814.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 24,
+                        "lineups": 16,
+                        "minutes": 1507,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.029166",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 5,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1065,
+                        "key": 3,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 23,
+                        "blocks": 15,
+                        "interceptions": 20
+                    },
+                    "duels": {
+                        "total": 135,
+                        "won": 99
+                    },
+                    "dribbles": {
+                        "attempts": 8,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 12
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 133,
+                "name": "C. Lenglet",
+                "firstname": "Clément Nicolas Laurent",
+                "lastname": "Lenglet",
+                "age": 26,
+                "birth": {
+                    "date": "1995-06-17",
+                    "place": "Beauvais",
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "186 cm",
+                "weight": "81 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/133.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 33,
+                        "lineups": 29,
+                        "minutes": 2478,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.833333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 4,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 10,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2299,
+                        "key": 9,
+                        "accuracy": 64
+                    },
+                    "tackles": {
+                        "total": 36,
+                        "blocks": 12,
+                        "interceptions": 33
+                    },
+                    "duels": {
+                        "total": 245,
+                        "won": 134
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 50
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 2,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 128,
+                "name": "Jordi Alba",
+                "firstname": "Jordi",
+                "lastname": "Alba Ramos",
+                "age": 32,
+                "birth": {
+                    "date": "1989-03-21",
+                    "place": "L'Hospitalet de Llobregat",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "170 cm",
+                "weight": "68 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/128.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 529,
+                        "name": "Barcelona",
+                        "logo": "https://media.api-sports.io/football/teams/529.png"
+                    },
+                    "league": {
+                        "id": 140,
+                        "name": "La Liga",
+                        "country": "Spain",
+                        "logo": "https://media.api-sports.io/football/leagues/140.png",
+                        "flag": "https://media.api-sports.io/flags/es.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 35,
+                        "lineups": 34,
+                        "minutes": 3029,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.168571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 25,
+                        "on": 10
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2567,
+                        "key": 53,
+                        "accuracy": 63
+                    },
+                    "tackles": {
+                        "total": 45,
+                        "blocks": 2,
+                        "interceptions": 49
+                    },
+                    "duels": {
+                        "total": 162,
+                        "won": 81
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 17,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 15,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 9,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}
