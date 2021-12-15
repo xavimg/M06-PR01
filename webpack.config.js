@@ -6,6 +6,7 @@ module.exports = {
     entry: {
         index: './src/js/index.js',
         teams: './src/js/teams.js',
+        miequipo: './src/js/miequipo.js'
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
@@ -21,6 +22,11 @@ module.exports = {
             filename: 'escudos.html',
             template: './src/escudos.html',
             chunks: ["teams"],
+        }),
+        new HtmlWebpackPlugin({
+            filename: 'miequipo.html',
+            template: './src/miequipo.html',
+            chunks: ["miequipo"],
         })
     ],
     devServer: {
